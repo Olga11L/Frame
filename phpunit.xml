@@ -1,7 +1,0 @@
-<phpunit colors="true">
-   <testsuites>
-       <testsuite name="cart">
-           <directory>tests</directory>
-       </testsuite>
-   </testsuites>
-</phpunit>
